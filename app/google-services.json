@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1036502291221",
+    "firebase_url": "https://loginlucking.firebaseio.com",
+    "project_id": "loginlucking",
+    "storage_bucket": "loginlucking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036502291221:android:13bf1aa4275c296d",
+        "android_client_info": {
+          "package_name": "brandon.example.com.locking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036502291221-hog873298p078bg8n6a8011mkpi7fo34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "brandon.example.com.locking",
+            "certificate_hash": "59dd800997eb9148807938843bf004c4a0523ce7"
+          }
+        },
+        {
+          "client_id": "1036502291221-toja2ks7o8l98hibiqadirlkq5ld4gau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFPjMNaCKmKQ4MNVvEeTUXdOEr9P2Z12M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036502291221-toja2ks7o8l98hibiqadirlkq5ld4gau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
